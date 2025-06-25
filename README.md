@@ -1,6 +1,6 @@
 # 🤟 Real-Time Sign Language Recognition with Voice (Python + MediaPipe)
 
-This project is a real-time hand sign recognition system that uses computer vision and machine learning to identify gestures from hand landmarks. It also supports optional text-to-speech (TTS) functionality for spoken feedback — making it a helpful accessibility tool for the hearing or speech-impaired.
+This project is a real-time hand sign recognition system that uses computer vision and machine learning to identify gestures from hand landmarks.
 
 ---
 
@@ -10,7 +10,6 @@ This project is a real-time hand sign recognition system that uses computer visi
 - 🏷️ Labeled data collection with webcam
 - 🧠 Model training using Random Forest
 - 🔮 Live gesture prediction from camera input
-- 🗣️ Optional voice feedback using text-to-speech (offline)
 
 ---
 
@@ -21,7 +20,6 @@ This project is a real-time hand sign recognition system that uses computer visi
 - OpenCV
 - scikit-learn
 - NumPy / pandas
-- pyttsx3 (offline text-to-speech)
 
 ---
 
