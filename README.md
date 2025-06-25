@@ -1,6 +1,7 @@
 # 🤟 Real-Time Sign Language Recognition with Voice (Python + MediaPipe)
 
 This project is a real-time hand sign recognition system that uses computer vision and machine learning to identify gestures from hand landmarks.
+Currently only recognize Hello and yes.. but you can add as many as you can by running collect_data.py...
 
 ---
 
